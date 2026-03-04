@@ -1,4 +1,4 @@
-# learn-tech-with-me
+my first website
 this is my first git respioratory
 <br>
 author chandrashekhar yh
